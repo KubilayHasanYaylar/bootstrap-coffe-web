@@ -1,0 +1,22 @@
+.head-color{
+    background: #000;
+    color: aliceblue;
+}
+
+.nav-color{
+    background: #000 !important;
+   
+}
+.phrase-padding{
+    padding: 20%;
+    background-color: #f7f9fb;
+}
+.social-color{
+    background-color: bisque;
+}
+.login-subtite{
+    color: rgb(143, 153, 4);
+}
+.login-subtite-2{
+    color: rgb(133, 19, 19);
+}
